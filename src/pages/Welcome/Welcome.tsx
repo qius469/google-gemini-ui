@@ -5,7 +5,7 @@ import Setup from './Setup'
 import ThemeToggle from '../../components/ThemeToggle'
 
 function Welcome() {
-  const [showInputs, setShowInputs] = useState(false)
+  const [showInputs, setShowInputs] = useState(true)
 
   return (
     <div className='welcome-page'>
