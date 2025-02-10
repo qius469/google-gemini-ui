@@ -23,7 +23,7 @@ function Welcome() {
           (<Setup />)
         }
       </div>
-      <span className='disclaimer'>This application only connects Google API with your device.</span>
+      <span className='免責聲明'>此应用程序仅将 Google API 与您的设备连接.</span>
     </div>
   )
 }
